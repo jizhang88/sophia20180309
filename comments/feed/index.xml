@@ -6,14 +6,14 @@
 	
 	>
 <channel>
-	<title>Comments for $850,000 by owner</title>
+	<title>Comments for $779,000 by owner</title>
 	<atom:link href="/sophia20180309/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/sophia20180309</link>
 	<description>118 East 60th street, 12B, New York</description>
 	<lastBuildDate>Thu, 08 Mar 2018 21:58:57 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9.6</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Comment on Hello world! by A WordPress Commenter</title>
 		<link>/sophia20180309/2018/03/08/hello-world/#comment-1</link>
